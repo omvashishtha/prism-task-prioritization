@@ -1,0 +1,5 @@
+Flask
+flask-cors
+flask-sqlalchemy
+openai>=1.0.0
+pymysql
